@@ -63,7 +63,20 @@ lms-app/
 │   │   ├── NotificationsIcon.jsx
 │   │   ├── OverdueFines.jsx
 ```
+---
 
+## UI Section 
+[Dashboard](./assets/dashboard.png)
+
+[Book Management](/assets/book_management.png)
+
+[Member Management](/assets/member_management)
+
+[Transaction Management](./assets/transaction.png)
+
+[Notification Management](./notification.png)
+
+---
 ## Installation
 
 1. Clone the repository:
